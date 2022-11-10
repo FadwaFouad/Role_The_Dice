@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/menu_nav.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/nav_main.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.12708333333333333" />
         <entry key="app/src/main/res/menu/role_menu.xml" value="0.18" />
       </map>
     </option>

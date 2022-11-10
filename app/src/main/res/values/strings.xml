@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RoleTheDice</string>
+    <string name="open_drawer">Open drawble menu</string>
+    <string name="close_drawer">Close drawable menu</string>
 </resources>
