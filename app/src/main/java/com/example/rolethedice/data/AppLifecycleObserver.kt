@@ -1,4 +1,4 @@
-package com.example.rolethedice
+package com.example.rolethedice.data
 
 import android.util.Log
 import androidx.lifecycle.DefaultLifecycleObserver
